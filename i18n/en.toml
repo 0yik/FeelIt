@@ -19,16 +19,16 @@ other = "Posts"
 other = "All {{ .Some }}"
 
 [tag]
-other = "Tag"
+other = "Reciters"
 
 [tags]
-other = "Tags"
+other = "Reciters"
 
 [category]
-other = "Category"
+other = "Surah"
 
 [categories]
-other = "Categories"
+other = "Surah"
 # === Taxonomy ===
 
 # === Pagination ===
